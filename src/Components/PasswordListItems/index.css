@@ -1,0 +1,94 @@
+.password-list-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  margin: 10px;
+}
+
+.user-details-list {
+  margin: 10px;
+}
+
+.website-details {
+  font-size: 14px;
+  font-family: roboto;
+  color: #ffffff;
+}
+
+.user-details {
+  font-size: 14px;
+  font-family: roboto;
+  color: #ffffff;
+}
+
+.password-details {
+  font-size: 14px;
+  font-family: roboto;
+  color: #ffffff;
+}
+
+.delete-button {
+  background-color: transparent;
+  border: none;
+  margin-left: 35px;
+}
+
+.delete-icon {
+  width: 25px;
+}
+
+.initial-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 16px;
+  margin-top: 18px;
+  margin-right: 8px;
+  flex-shrink: 0;
+}
+
+.initial {
+  color: #ffffff;
+  font-size: 14px;
+  font-family: roboto;
+  font-weight: 600;
+}
+
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.no-passwords {
+  width: 80px;
+}
